@@ -9,7 +9,7 @@ npm install
 # Instala as dependencias do cliente
 npm run client-install
 
-# Roda o cliente & o servidor simultaneamente
+# Roda o cliente & servidor simultaneamente
 npm run dev
 
 # Roda o servidor em express apenas
