@@ -1,38 +1,31 @@
-# React Express Starter Pack
+# Hoof
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
-
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
-
-## Quick Start
+## Tutorial
 
 ``` bash
-# Install dependencies for server
+# Instala as dependencias do server
 npm install
 
-# Install dependencies for client
+# Instala as dependencias do cliente
 npm run client-install
 
-# Run the client & server with concurrently
+# Roda o cliente & o servidor simultaneamente
 npm run dev
 
-# Run the Express server only
+# Roda o servidor em express apenas
 npm run server
 
-# Run the React client only
+# Roda o cliente
 npm run client
 
-# Server runs on http://localhost:5000 and client on http://localhost:3000
+# Server roda na porta http://localhost:8080 e o cliente na http://localhost:3000 (apenas para desenvolvimento)
 ```
 
 ## App Info
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Tupynambá Lucas
 
 ### Version
 
@@ -40,4 +33,4 @@ Brad Traversy
 
 ### License
 
-This project is licensed under the MIT License
+Não sei ademir da um jeito ai
